@@ -4,4 +4,5 @@ Esta aplicación es un diccionario con el significado de los sueños, que provee
 
 # Gráficos de funcionalidad
 
-![funcionamiento](https://drive.google.com/uc?id=1vN5IuQ3zHLnr4nnaWb2YqqveZ8RjdkoO)
+![funcionamiento](https://drive.google.com/uc?id=11hdtjLipa8d58dro1XZZ-QLSuhS_uVr5)
+
